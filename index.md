@@ -8,4 +8,4 @@ Github
 
 Documentation
 
-[http://dev.docs.holodyn.com/Joomla/Plugins/wbLess](http://dev.docs.holodyn.com/Joomla/Plugins/wbLess)
+[http://docs.holodyn.com/Joomla/Plugins/wbLess](http://docs.holodyn.com/Joomla/Plugins/wbLess)
